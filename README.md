@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software Engineer <br>Rust Developer.<br><br>Development of blockchain solutions<br>Integration and management of APIs<br>Implementation of DevOps practices<br>Development based on Rust actor architecture.<br><br>Passionate about efficiency and technological innovation
+Software Engineer <br>Rust Developer<br><br>Development of blockchain solutions<br>Integration and management of APIs<br>Implementation of DevOps practices<br>Development based on Rust actor architecture.<br><br>Passionate about efficiency and technological innovation
 
 
 ## 🌐 Socials:
